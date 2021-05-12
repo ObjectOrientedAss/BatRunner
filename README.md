@@ -1,8 +1,12 @@
 # BatRunner
 This is a small game developed in Unity during a 24 hours Game Jame at the AIV's Level Up School Days event held in Rome in October 2020. I was the only programmer, and half of our team was composed by learning kids from the local school.
 
+## The Theme
+Barriers. During our really fast brainstorming we came up with this idea: bats don't see and find their orientation using some kind of "sonar" waves system. So in this game there are two kind of barriers: the view, and the stalactites you hit against and die. But don't worry, about the first one, you have the famous sonar i talked about earlier to help :P
+
 ## The Game
 Basically, you are a bat flying straight forward into a cave. The more you fly into the cave before dying, the higher the points.
+To make things more complicated, the cave is totally black. The sonar will help you, but the more you travel, the faster it goes, so you will have to resist to some kind of epilessy.
 The cave sections are full of dangers and wonders:
 - If you hit a sparkle, you increase your distance points multiplier.
 - If you hit a spider web, you reset your distance points multiplier.
