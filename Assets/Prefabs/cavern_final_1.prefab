@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2153910719631929432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1634783367274785506}
+  - component: {fileID: 2377954869713462599}
+  - component: {fileID: 496739644080034189}
+  - component: {fileID: 9206679040804741314}
+  - component: {fileID: 4491800899991321953}
+  m_Layer: 0
+  m_Name: cavern_final_1
+  m_TagString: CavernSection
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1634783367274785506
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2153910719631929432}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.112472534, y: 1.9967692, z: 0.4340229}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6856880457946296665}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &2377954869713462599
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2153910719631929432}
+  m_Mesh: {fileID: 8707704412985035354, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+--- !u!23 &496739644080034189
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2153910719631929432}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -183530207247392898, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: 8778412184559472700, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: 5972191728477514568, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: -1910783980818614310, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: -915216440286173917, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: -4838933450186888610, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: 8368722655750445499, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: -4597107667637640440, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: 6034957751646507721, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: 5775865398287329665, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: 5561349426305759274, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: -4612162990109294230, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: -59136025557594432, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: -1976799459468813334, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: -8255497921437555292, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: 2770359204999231786, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: 1934832476112516341, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  - {fileID: -205629353262513385, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!64 &9206679040804741314
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2153910719631929432}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8707704412985035354, guid: fadad5a85597f244dabb1092058985f6, type: 3}
+--- !u!114 &4491800899991321953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2153910719631929432}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8610c296c7d0e3b408f48a7d0cb4b6a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ownerQueueIndex: 0
+  gm: {fileID: 0}
+  ObstacleSpawner: {fileID: 1120574936301196051}
+--- !u!1 &2325898299655336563
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6856880457946296665}
+  - component: {fileID: 1120574936301196051}
+  m_Layer: 0
+  m_Name: ObstacleSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6856880457946296665
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2325898299655336563}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1634783367274785506}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1120574936301196051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2325898299655336563}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ba8c83552c2f0a469539191798bac44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gm: {fileID: 0}
